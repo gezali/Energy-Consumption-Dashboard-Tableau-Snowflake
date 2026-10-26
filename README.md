@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Energy%20Consumption%20Dashboard&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Snowflake%20%2B%20SQL%20%2B%20Tableau&descSize=20&descAlignY=68" alt="Energy Consumption Dashboard" width="100%"/>
+# Energy Consumption Dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=From+raw+household+data+to+clear+insights;SQL+transformations+in+Snowflake;Interactive+visuals+in+Tableau" alt="Typing animation"/>
+**Snowflake + SQL + Tableau**
+
+From raw household data to clear insights
 
 <br/>
 
@@ -21,7 +23,7 @@ This project analyzes **household renewable energy data** across **25 countries 
 
 <div align="center">
 
-<img src="Screenshot 2026-10-26 200703.png" alt="Energy Consumption Dashboard" width="90%"/>
+<img src="Dashboard.png" alt="Energy Consumption Dashboard" width="90%"/>
 
 </div>
 

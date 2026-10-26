@@ -23,7 +23,7 @@ This project analyzes **household renewable energy data** across **25 countries 
 
 <div align="center">
 
-<img src="Dashboard.png" alt="Energy Consumption Dashboard" width="90%"/>
+<img src="Screenshot 2026-10-26 200703.png" alt="Energy Consumption Dashboard" width="90%"/>
 
 </div>
 
